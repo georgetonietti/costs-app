@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "name": "projeto atualizado",
+      "budget": "7500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Servidor",
+          "cost": "2500",
+          "description": "Comprar um servidor",
+          "id": "5d2ca1fb-4802-4e0e-9ebe-f44a2f8390f5"
+        },
+        {
+          "name": "teste de serviço",
+          "cost": "500",
+          "description": "só um teste",
+          "id": "a02e5e93-1098-4f35-b928-3b412cc56ef9"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "teste 2",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "teste 3",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "budget": "15000",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "teste 4",
+      "budget": "2500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
